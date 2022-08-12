@@ -1,9 +1,9 @@
-- 👋 Hi, I’m @MonsterReaper
-- 👀 I’m interested in Python and game development
-- 🌱 I’m currently learning Python
-- 📫 How to reach me- currently nothing
+- 👋 Hi, I’m MonsterReaper
+- 👀 I’m interested in game development
+- 🌱 I’m currently working on my game project and concentrating on my academics
+- 📫 How to reach me- Discord: MonsterReaper#2874
 
-I am just a teen student programmer learning python(currently) and is working on a game project
+Hello,  and is working on a game. I know python, html and gdscript currently. I want to learn java and C# 
 
 
 

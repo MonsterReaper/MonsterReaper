@@ -1,4 +1,4 @@
-Greetings, it's a pleasure to make your acquaintance, I'm MonsterReaper.
+Greetings, it's a pleasure to make your acquaintance, I'm Shivesh (MonsterReaper).
 I have a keen interest in the fields of Artificial Intelligence, Game Development, Algebra and Discrete Mathematics, and Technology.
 I possess proficiency in programming languages such as Python,HTML, and Gd script.
 

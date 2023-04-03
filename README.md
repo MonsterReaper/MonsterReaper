@@ -1,10 +1,12 @@
-- 👋 Hi, I’m MonsterReaper
-- 👀 I’m interested in AI, game development,math and tech
-- 🌱 I’m currently concentrating on my academics
-- 📫 How to reach me- Discord: MonsterReaper#2874
+Greetings, it's a pleasure to make your acquaintance, I'm MonsterReaper.
+I have a keen interest in the fields of artificial intelligence, game development, mathematics, and technology.
+I possess proficiency in languages such as Python,HTML, and Gd script.
 
-I know python, html and gdscript.
-
+I'm presently concentrating on my academics
+My contact details are as follows: 
+1. Discord: MonsterReaper#2874
+2. Mail: MonsterReaper1@pm.me or Monster_Reaper1@pm.me
+That should be it. Have a great day.
 
 
 

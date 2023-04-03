@@ -1,6 +1,6 @@
 Greetings, it's a pleasure to make your acquaintance, I'm MonsterReaper.
-I have a keen interest in the fields of artificial intelligence, game development, mathematics, and technology.
-I possess proficiency in languages such as Python,HTML, and Gd script.
+I have a keen interest in the fields of Artificial Intelligence, Game Development, Algebra and Discrete Mathematics, and Technology.
+I possess proficiency in programming languages such as Python,HTML, and Gd script.
 
 I'm presently concentrating on my academics
 My contact details are as follows: 

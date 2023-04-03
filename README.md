@@ -6,6 +6,7 @@ I'm presently concentrating on my academics
 My contact details are as follows: 
 1. Discord: MonsterReaper#2874
 2. Mail: MonsterReaper1@pm.me or Monster_Reaper1@pm.me
+
 That should be it. Have a great day.
 
 

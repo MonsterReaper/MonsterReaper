@@ -2,7 +2,8 @@ Greetings, it's a pleasure to make your acquaintance, I'm Shivesh (MonsterReaper
 I have a keen interest in the fields of Artificial Intelligence, Game Development, Algebra and Discrete Mathematics, and Technology.
 I possess proficiency in programming languages such as Python,HTML, and Gd script.
 
-I'm presently concentrating on my academics
+I'm presently concentrating on my academics.
+
 My contact details are as follows: 
 1. Discord: MonsterReaper#2874
 2. Mail: MonsterReaper1@pm.me or Monster_Reaper1@pm.me

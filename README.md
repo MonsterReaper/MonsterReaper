@@ -1,13 +1,13 @@
 ![logo](https://github.com/MonsterReaper/MonsterReaper/blob/main/Shivesh%20S.png)
 
 
-<h1 align="center">Hi 👋, I'm Shivesh S</h1>
+<h1 align="center">Hi, I'm Shivesh S</h1>
 <h3 align="center">I have a keen interest in the fields of Artificial Intelligence, Game Development, Algebra and Discrete Mathematics, and Technology. I possess proficiency in programming languages such as Python,HTML, and Gd script.</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=monsterreaper&label=Profile%20views&color=0e75b6&style=flat" alt="monsterreaper" /> </p>
 
 
-<img align="right" alt="Coding" width="350" src="![image](https://user-images.githubusercontent.com/100134257/230776665-01cef2d1-282f-4728-bfe4-97b23a868d67.png)
+<img align="right" alt="Coding" width="350" src="![image](https://user-images.githubusercontent.com/100134257/230776665-01cef2d1-282f-4728-bfe4-97b23a868d67.png)">
 ">
 - 🔭 I’m currently working on [GameStorm-Bot](https://github.com/MonsterReaper/GameStorm-Bot)
 
@@ -36,8 +36,6 @@
 
 ---
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=monsterreaper&show_icons=true&locale=en&layout=compact" alt="monsterreaper" /></p>
-
-
 
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=monsterreaper&show_icons=true&locale=en" alt="monsterreaper" /></p>

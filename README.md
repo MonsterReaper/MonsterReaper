@@ -1,3 +1,6 @@
+![logo](https://github.com/MonsterReaper/MonsterReaper/blob/main/Shivesh%20S.png)
+
+
 <h1 align="center">Hi 👋, I'm Shivesh S</h1>
 <h3 align="center">I have a keen interest in the fields of Artificial Intelligence, Game Development, Algebra and Discrete Mathematics, and Technology. I possess proficiency in programming languages such as Python,HTML, and Gd script.</h3>
 

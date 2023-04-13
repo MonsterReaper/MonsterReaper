@@ -1,6 +1,6 @@
 
 <h1 align="center">Hi, I'm Shivesh S</h1>
-<h3 align="center">Hi, I'm Shivesh S</h1> <h3 align="center">I have a keen interest in the fields of Artificial Intelligence, Game Development, Algebra and Discrete Mathematics, and Technology. I possess proficiency in programming languages such as Python,HTML, and Gd script.</h3>
+<h3 align="center">Hi, I'm Shivesh S</h1> <h3 align="center">I have a keen interest in the fields of Artificial Intelligence, Game Development, Mathematics, and Technology. I possess proficiency in programming languages such as Python,HTML, and Gd script.</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=monsterreaper&label=Profile%20views&color=0e75b6&style=flat" alt="monsterreaper" /> </p>
 

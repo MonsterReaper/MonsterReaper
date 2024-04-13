@@ -12,7 +12,7 @@
 
 - 💬 Ask me about **Python, HTML, General programming stuff**
 
-- 📫 How to reach me **MonsterReaper1@pm.me**
+- 📫 How to reach me **shivesh.s.official@gmail.com**
 
 
 

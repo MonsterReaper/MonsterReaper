@@ -1,6 +1,6 @@
 
 <h1 align="center">Hi, I'm Shivesh S</h1>
-<h3 align="center">:)</h1> <h3 align="center">I can code in C, python, html, js, and gdscript</h3>
+<h3 align="center"></h1> <h3 align="center">I can code in C, python, html, js, and gdscript</h3>
 
 
 
